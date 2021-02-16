@@ -144,6 +144,11 @@ ul.skills {
   background:rgb(14, 136, 75);
 }
 
+.contact {
+  margin: auto;
+  width: 50%;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
