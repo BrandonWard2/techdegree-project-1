@@ -187,10 +187,10 @@ ul.skills {
 }
 
 .contact1:hover {
-  border-top: 4px solid rgb(14, 136, 75);
-  border-bottom: 4px solid rgb(14, 136, 75);
-  border-left: 4px solid rgb(14, 136, 75);
-  border-right: 4px solid rgb(14, 136, 75);
+  border-top: 2px solid rgb(14, 136, 75);
+  border-bottom: 2px solid rgb(14, 136, 75);
+  border-left: 2px solid rgb(14, 136, 75);
+  border-right: 2px solid rgb(14, 136, 75);
 }
 
 .contact2 {
@@ -206,10 +206,10 @@ ul.skills {
 }
 
 .contact2:hover{
-  border-top: 4px solid rgb(14, 136, 75);
-  border-bottom: 4px solid rgb(14, 136, 75);
-  border-left: 4px solid rgb(14, 136, 75);
-  border-right: 4px solid rgb(14, 136, 75);
+  border-top: 2px solid rgb(14, 136, 75);
+  border-bottom: 2px solid rgb(14, 136, 75);
+  border-left: 2px solid rgb(14, 136, 75);
+  border-right: 2px solid rgb(14, 136, 75);
 }
 
 .contact3 {
@@ -225,17 +225,19 @@ ul.skills {
 }
 
 .contact3:hover {
-  border-top: 4px solid rgb(14, 136, 75);
-  border-bottom: 4px solid rgb(14, 136, 75);
-  border-left: 4px solid rgb(14, 136, 75);
-  border-right: 4px solid rgb(14, 136, 75);
+  border-top: 2px solid rgb(14, 136, 75);
+  border-bottom: 2px solid rgb(14, 136, 75);
+  border-left: 2px solid rgb(14, 136, 75);
+  border-right: 2px solid rgb(14, 136, 75);
 }
 
 .contact4 {
+  height: 45px;
+  font-size: 16px;
   margin-bottom: 20px;
   margin-left: 30px;
   margin-right: 50px;
-  padding: 10px 115px 10px 115px;
+  padding: 10px 105px 10px 115px;
   border-radius: 6px;
   border-top: 2px solid white;
   border-bottom: 2px solid white;
