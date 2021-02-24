@@ -175,6 +175,11 @@ ul.skills {
   float: left;
 }
 
+/*.singleinput input {
+  width: 150px;
+  display: flex;
+}*/
+
 .contact1 {
   margin-bottom: 20px;
   margin-left: 30px;
@@ -186,7 +191,6 @@ ul.skills {
   border-left: 2px solid rgb(168, 162, 162);
   border-right: 2px solid rgb(168, 162, 162);
 }
-
 .contact1:hover {
   border-top: 2px solid rgb(14, 136, 75);
   border-bottom: 2px solid rgb(14, 136, 75);
@@ -205,7 +209,6 @@ ul.skills {
   border-left: 2px solid rgb(168, 162, 162);
   border-right: 2px solid rgb(168, 162, 162);
 }
-
 .contact2:hover{
   border-top: 2px solid rgb(14, 136, 75);
   border-bottom: 2px solid rgb(14, 136, 75);
@@ -228,7 +231,6 @@ ul.skills {
   height: 150px;
   resize: none;
 }
-
 .contact3:hover {
   border-top: 2px solid rgb(14, 136, 75);
   border-bottom: 2px solid rgb(14, 136, 75);
@@ -250,6 +252,9 @@ ul.skills {
   border-right: 2px solid white;
   background: rgb(14, 136, 75);
   color: white
+}
+.contact4:hover {
+  background: rgb(100, 191, 73)
 }
 
 footer {
