@@ -97,6 +97,7 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+  display: inline-block;
 }
 .card:hover {
   border-color: rgb(14, 136, 75);
@@ -172,13 +173,8 @@ ul.skills {
 .contact {
   margin: auto;
   width: 50%;
-  float: left;
+  display:inline-block;
 }
-
-/*.singleinput input {
-  width: 150px;
-  display: flex;
-}*/
 
 .contact1 {
   margin-bottom: 20px;
@@ -190,6 +186,7 @@ ul.skills {
   border-bottom: 2px solid rgb(168, 162, 162);
   border-left: 2px solid rgb(168, 162, 162);
   border-right: 2px solid rgb(168, 162, 162);
+  display: inline-block;
 }
 .contact1:hover {
   border-top: 2px solid rgb(14, 136, 75);
@@ -208,6 +205,7 @@ ul.skills {
   border-bottom: 2px solid rgb(168, 162, 162);
   border-left: 2px solid rgb(168, 162, 162);
   border-right: 2px solid rgb(168, 162, 162);
+  display: inline-block;
 }
 .contact2:hover{
   border-top: 2px solid rgb(14, 136, 75);
